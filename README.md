@@ -15,7 +15,7 @@ To test out the app from a local server you can manually edit the `index.html` f
 To start the server you can either:
 1. Navigate to the `simple_server`, open up a command prompt and type: `python -m http.server 8000`. This will create the server on the selected port.
 2. Execute the `serve.sh` scripts which does the same as the above.
-3. The corresponding URL in the app will then be: 'http://localhost:(selected port)'
+3. The corresponding URL in the app will then be: 'http://localhost:8000'
 
 ## Example
 #### Layout
