@@ -1,6 +1,6 @@
 # Image-Scraping-app
 
-Simple image scraping app made with Python 3 and the tkinter GUI.
+Simple image scraping app made with Python 3 and the tkinter GUI working for local servers.
 This app is an improved version of an example one of the same type published in the book 'Learning Python' available in [Packt](www.packtpub.com).
 
 ## Requirements
